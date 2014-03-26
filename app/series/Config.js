@@ -67,7 +67,7 @@ define([],
 			// If false, each tab will have a number on it. If true, the first tab will not have a number and the second tab will start counting at 1.
 			startCountOnSecondTab: false,
 			//Sync maps scale and location
-			syncMaps: false,
+			syncMaps: true,
 			//Display geocoder search widget
 			geocoderWidget: false,
 			// Specify a proxy for custom deployment
